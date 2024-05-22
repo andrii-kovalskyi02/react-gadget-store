@@ -14,7 +14,7 @@ Welcome to my E-Commerce Website project! This functional e-commerce platform al
 
 ## Demo
 
-To see this project in action, you can visit the live demo [here](https://andrii-kovalskyi02.github.io/react_gadget-store/). Explore the features, discover your favorite products, and experience a hassle-free shopping journey.
+To see this project in action, you can visit the live demo [here](https://andrii-kovalskyi02.github.io/react-gadget-store/). Explore the features, discover your favorite products, and experience a hassle-free shopping journey.
 
 ## Technologies Used
 
